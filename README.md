@@ -13,12 +13,17 @@ Users can add customer accounts with details such as name, mobile number, and ad
 System calculates new balances based on received payments.
 Determines account status as CURRENT, OVERDUE, or DELINQUENT.
 
+#  Output:
+
+
+![1](https://github.com/sachinkumar118/Customer-Billing-System-using-C-programming/assets/117358751/3884cd09-3dde-42a4-bcfd-8f855d655e7e)
 
 
 
 
 
+![2](https://github.com/sachinkumar118/Customer-Billing-System-using-C-programming/assets/117358751/d0bd1bfe-e637-4f9f-abac-ed559411b193)
 
 
-
+![3](https://github.com/sachinkumar118/Customer-Billing-System-using-C-programming/assets/117358751/755dd395-b7de-4cb6-84ae-cea562a2bc69)
 
